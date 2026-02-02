@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 
-  # Hi, I'm Shady Abdou! 👋
+  # Hi, I'm Shady Gharib! 👋
 
   <h3>
     Data Scientist | Researcher
@@ -12,8 +12,8 @@
     <a href="https://www.linkedin.com/in/shady-gharib/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <a href="mailto:shadyabdou.du@gmail.com">
+      <img src="https://img.shields.io/badge/Email-shadyabdou.du@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
     </a>
   </p>
 </div>
@@ -27,6 +27,15 @@ I am a passionate Data Scientist focused on analyzing complex datasets to find m
 - 🌱 I’m currently learning **Deep Learning with TensorFlow & Advanced NLP**
 - 👯 I’m looking to collaborate on **Open Source Data Science Projects**
 - ⚡ Fun fact: I love turning raw data into actionable stories!
+
+---
+
+### 🏆 Project Spotlight
+
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| **🎙️ Voice Assistant** | An intelligent voice-controlled assistant built with Python to automate tasks, recognize speech commands, and improve productivity. | [**View Repo**](https://github.com/shadymohammed75/Voice-assistant) |
+| **⚡ Twinspark** | A powerful data project demonstrating advanced processing capabilities and efficient code architecture. | [**View Repo**](https://github.com/shadymohammed75/twinspark) |
 
 ---
 
