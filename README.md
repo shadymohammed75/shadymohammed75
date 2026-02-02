@@ -34,8 +34,8 @@ I am a passionate Data Scientist focused on analyzing complex datasets to find m
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **🎙️ Voice Assistant** | An intelligent voice-controlled assistant built with Python to automate tasks, recognize speech commands, and improve productivity. | [**View Repo**](https://github.com/shadymohammed75/Voice-assistant) |
-| **⚡ Twinspark** | A powerful data project demonstrating advanced processing capabilities and efficient code architecture. | [**View Repo**](https://github.com/shadymohammed75/twinspark) |
+| **🎙️ Voice Assistant** | An intelligent voice-controlled assistant built with Python to recognize speech commands, and improve productivity. | [**View Repo**](https://github.com/shadymohammed75/Voice-assistant) |
+| **⚡ Twinspark** | A powerful Big data project based on AKKA  programming. | [**View Repo**](https://github.com/shadymohammed75/twinspark) |
 
 ---
 
