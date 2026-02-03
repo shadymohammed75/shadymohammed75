@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 
-  # Hi, I'm Shady Gharib! 👋
+  # Hi, I'm Shady Abdou! 👋
 
   <h3>
     Data Scientist | Researcher
