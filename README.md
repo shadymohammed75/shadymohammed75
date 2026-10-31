@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shady+Abdou+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;Forecasting+%E2%80%A2+LLMs+%E2%80%A2+Agents" alt="Typing intro" />
 
-**M.Sc. Data Science (Germany) · ex-Research Assistant @ Fraunhofer · Building with AI**
+**M.Sc. Data Science (Germany) · Research Assistant @ Fraunhofer · Building with AI**
 
 <a href="https://www.linkedin.com/in/shady-gharib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shadyabdou.du@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
